@@ -1,0 +1,57 @@
+[
+    {
+        "header": "Welcome to Our Service!",
+        "body": "Thank you for signing up for our service. We are excited to have you on board.",
+        "footer": "Best Regards, Team",
+        "category": "Marketing",
+        "templateType": "Custom",
+        "button": {
+            "text": "Get Started",
+            "link": "https:google.com"
+        }
+    },
+    {
+        "header": "Order Confirmation",
+        "body": "Your order has been confirmed! Thank you for your purchase.",
+        "footer": "We appreciate your business.",
+        "category": "Utility",
+        "templateType": "Custom",
+        "button": {
+            "text": "View Order",
+            "link": "https:google.com"
+        }
+    },
+    {
+        "header": "Password Reset",
+        "body": "Click the link below to reset your password.",
+        "footer": "If you did not request this, please ignore this message.",
+        "category": "Authentication",
+        "templateType": "Custom",
+        "button": {
+            "text": "Reset Password",
+            "link": "https:google.com"
+        }
+    },
+    {
+        "header": "Special Promotion!",
+        "body": "Use the code SPRING2024 to get 20% off your next purchase.",
+        "footer": "Offer valid until the end of the month.",
+        "category": "Marketing",
+        "templateType": "Custom",
+        "button": {
+            "text": "Shop Now",
+            "link": "https:google.com"
+        }
+    },
+    {
+        "header": "Feedback Request",
+        "body": "We value your feedback! Please take a moment to let us know how we did.",
+        "footer": "Thank you for your time.",
+        "category": "Utility",
+        "templateType": "Custom",
+        "button": {
+            "text": "Give Feedback",
+            "link": "https:google.com"
+        }
+    }
+]
